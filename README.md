@@ -12,9 +12,8 @@
 * [Dataset](#dataset)
 * [Performance](#performance)
 * [Challenges](#challenges)
-* [References](#references)
 * [Improvements](#improvements)
-
+* [References](#references)
 ---
 
 ## About the Project
