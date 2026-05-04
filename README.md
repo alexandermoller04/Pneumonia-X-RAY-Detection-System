@@ -54,13 +54,13 @@ The objective of this project is to develop a reliable binary classification mod
     * **Average Recall (R)**: 
     * **Average F1-Score**:]
       
-* **Model 2: Scratch CNN + Data Augmentation**:
+* **Model 2: Scratch CNN + Data Augmentation**
     * **Average Accuracy**: 
     * **Average Precision (P)**: 
     * **Average Recall (R)**: 
     * **Average F1-Score**:
       
-* **Model 3: Scratch CNN + Data Augmentation & Batch Normlization**:
+* **Model 3: Scratch CNN + Data Augmentation & Batch Normlization**
     * **Average Accuracy**: 
     * **Average Precision (P)**: 
     * **Average Recall (R)**: 
@@ -68,13 +68,13 @@ The objective of this project is to develop a reliable binary classification mod
 
 ### Christina's Model: CNN vs ResNet50
 
-* **Model 1: Scratch CNN**:
+* **Model 1: Scratch CNN**
     * **Average Accuracy**: 
     * **Average Precision (P)**: 
     * **Average Recall (R)**: 
     * **Average F1-Score**:
       
-* **Model 2: ResNet50 CNN**:
+* **Model 2: ResNet50 CNN**
     * **Average Accuracy**: 
     * **Average Precision (P)**: 
     * **Average Recall (R)**: 
