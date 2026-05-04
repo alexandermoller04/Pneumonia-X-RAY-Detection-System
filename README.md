@@ -51,7 +51,7 @@ The objective of this project is to develop a reliable binary classification mod
     * **Average Accuracy**: 
     * **Average Precision (P)**: 
     * **Average Recall (R)**: 
-    * **Average F1-Score**:]
+    * **Average F1-Score**:
       
 * **Model 2: Scratch CNN + Data Augmentation**
     * **Average Accuracy**: 
