@@ -27,20 +27,20 @@ The objective of this project is to develop a reliable binary classification mod
 ---
 
 ## Dataset
-* Original dataset: 8,530 frontal chest X-ray images.
+* **Original dataset:** 8,530 frontal chest X-ray images.
 * **Split:** 80% Train | 10% Validation | 10% Test
 
 ### Training (80%):
 * **6824 images** of an even 50/50 split of pneumonia-positive and normal cases.
-* **Classes**: Classes are classified through 1: 🔴("PNEUMONIA"), 2: 🟢("NORMAL").
+* **Classes**: Classes are classified through 0: 🟢("NORMAL"), 1: 🔴("PNEUMONIA").
 
 ### Validation (10%):
 * **852 images** of an even 50/50 split of pneumonia-positive and normal cases.
-* **Classes**: Classes are classified through 1: 🔴("PNEUMONIA"), 2: 🟢("NORMAL").
+* **Classes**: Classes are classified through 0: 🟢("NORMAL"), 1: 🔴("PNEUMONIA").
  
 ### Testing (10%):
 * **852 images** of an even 50/50 split of pneumonia-positive and normal cases.
-* **Classes**: Classes are classified through 1: 🔴("PNEUMONIA"), 2: 🟢("NORMAL").
+* **Classes**: Classes are classified through 0: 🟢("NORMAL"), 1: 🔴("PNEUMONIA").
 
 ---
 
