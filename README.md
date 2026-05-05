@@ -48,36 +48,36 @@ The objective of this project is to develop a reliable binary classification mod
     
 ### Alexander's Model: Scratch CNN iterations
 * **Model 1: Scratch CNN**:
-    * **Average Accuracy**: 
-    * **Average Precision (P)**: 
-    * **Average Recall (R)**: 
-    * **Average F1-Score**:
+    * **Average Accuracy**: %95
+    * **Average Precision (P)**: %95
+    * **Average Recall (R)**: %96
+    * **Average F1-Score**: %95
       
 * **Model 2: Scratch CNN + Data Augmentation**
-    * **Average Accuracy**: 
-    * **Average Precision (P)**: 
-    * **Average Recall (R)**: 
-    * **Average F1-Score**:
+    * **Average Accuracy**: %90
+    * **Average Precision (P)**: %99
+    * **Average Recall (R)**: %81
+    * **Average F1-Score**: %89
       
 * **Model 3: Scratch CNN + Data Augmentation & Batch Normlization**
-    * **Average Accuracy**: 
-    * **Average Precision (P)**: 
-    * **Average Recall (R)**: 
-    * **Average F1-Score**:
+    * **Average Accuracy**: %97
+    * **Average Precision (P)**: %97
+    * **Average Recall (R)**: %97
+    * **Average F1-Score**: %97
 
 ### Christina's Model: CNN vs ResNet50
 
 * **Model 1: Scratch CNN**
-    * **Average Accuracy**: 
-    * **Average Precision (P)**: 
-    * **Average Recall (R)**: 
-    * **Average F1-Score**:
+    * **Average Accuracy**: %96
+    * **Average Precision (P)**: %96
+    * **Average Recall (R)**: %95
+    * **Average F1-Score**: %96
       
 * **Model 2: ResNet50 CNN**
-    * **Average Accuracy**: 
-    * **Average Precision (P)**: 
-    * **Average Recall (R)**: 
-    * **Average F1-Score**:
+    * **Average Accuracy**: %96
+    * **Average Precision (P)**: %99
+    * **Average Recall (R)**: %93
+    * **Average F1-Score**: %96
   
 ---
 
