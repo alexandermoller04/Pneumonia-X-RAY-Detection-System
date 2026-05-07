@@ -1,4 +1,4 @@
-# 🫁Pnuemonia Detection System
+# 🫁Chest X-Ray Pneumonia Classification
 
 * **Project**: CAP 4630 | Intro to Artificial Intelligence
 * **Instructor**: Professor Ahmed Imteaj
